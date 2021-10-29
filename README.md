@@ -9,3 +9,5 @@ Playtest my game [here](https://p4stacat.github.io/IASC-1P04/).
 ## Prototype
 
 Play my prototype [here](prototype/TwineGamePrototype.html)
+
+Note: It is highly reccomended that you play my prototype with your speakers on or with headphones
