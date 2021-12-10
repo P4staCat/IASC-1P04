@@ -7,7 +7,9 @@ Welcome to the website for ChatMe! ChatMe! is a unique role playing and alternat
 
 ## Play now!
 
-Play ChatMe!'s final version [here](final_build/ChatMe!_Final.html)
+Play ChatMe! [here](final_build/ChatMe!_Final.html)
+
+Note: It is highly recommended that you play through ChatMe! with your speakers on or with headphones.
 
 ## Playtest
 
